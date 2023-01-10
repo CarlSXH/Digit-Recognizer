@@ -1,0 +1,55 @@
+﻿  Main.cpp
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(241): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(290): warning C4244: '=': conversion from 'Float' to 'float', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(393): warning C4267: 'argument': conversion from 'size_t' to 'UINT32', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(417): warning C4244: 'initializing': conversion from 'LPARAM' to 'int', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(437): warning C4244: 'initializing': conversion from 'LPARAM' to 'float', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(438): warning C4244: 'initializing': conversion from 'LPARAM' to 'float', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(448): warning C4244: 'initializing': conversion from 'LPARAM' to 'int', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(495): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(500): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(585): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  NeuralNetwork.cpp
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(97): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(99): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(109): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(151): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(153): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(163): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(174): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(181): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(213): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(224): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(226): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(246): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(253): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(272): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(279): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(289): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(296): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(318): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(377): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(393): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(511): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(512): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(541): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(543): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(545): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(571): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(573): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(602): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(628): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(640): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(652): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(660): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\matrix.h(190): warning C4018: '<': signed/unsigned mismatch
+  d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(396): note: see reference to function template instantiation 'void Matrices::MatApply<Float>(T *,const Matrices::Matrix<T> *,T (__cdecl *)(T))' being compiled
+          with
+          [
+              T=Float
+          ]
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\matrix.h(292): warning C4018: '<': signed/unsigned mismatch
+  d:\carl\documents\visual studio 2017\projects\digitrecognizer\neuralnetwork.cpp(462): note: see reference to function template instantiation 'void Matrices::MatT<Float>(Matrices::Matrix<Float> *,const Matrices::Matrix<Float> *)' being compiled
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\matrix.h(293): warning C4018: '<': signed/unsigned mismatch
+MSVCRT.lib(exe_winmain.obj) : error LNK2001: unresolved external symbol WinMain
+D:\Carl\Documents\Visual Studio 2017\Projects\DigitRecognizer\x64\Release\DigitRecognizer.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,12 @@
+﻿  Main.cpp
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(241): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(290): warning C4244: '=': conversion from 'Float' to 'float', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(393): warning C4267: 'argument': conversion from 'size_t' to 'UINT32', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(417): warning C4244: 'initializing': conversion from 'LPARAM' to 'int', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(437): warning C4244: 'initializing': conversion from 'LPARAM' to 'float', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(438): warning C4244: 'initializing': conversion from 'LPARAM' to 'float', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(448): warning C4244: 'initializing': conversion from 'LPARAM' to 'int', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(495): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(500): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(585): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DigitRecognizer.vcxproj -> D:\Carl\Documents\Visual Studio 2017\Projects\DigitRecognizer\x64\Debug\DigitRecognizer.exe

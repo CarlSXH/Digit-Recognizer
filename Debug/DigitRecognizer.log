@@ -1,0 +1,17 @@
+﻿  Main.cpp
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(172): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(174): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(200): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(202): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(220): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(233): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(241): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(290): warning C4244: '=': conversion from 'Float' to 'float', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(328): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(341): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(437): warning C4244: 'initializing': conversion from 'LPARAM' to 'float', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(438): warning C4244: 'initializing': conversion from 'LPARAM' to 'float', possible loss of data
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(495): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(500): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+d:\carl\documents\visual studio 2017\projects\digitrecognizer\main.cpp(913): warning C4007: 'wWinMain': must be '__stdcall'
+  DigitRecognizer.vcxproj -> D:\Carl\Documents\Visual Studio 2017\Projects\DigitRecognizer\Debug\DigitRecognizer.exe
